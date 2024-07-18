@@ -1,10 +1,10 @@
-```markdown
+
 # PDF Tax Information Extraction and Question Answering
 
 This project demonstrates how to use the `indexify` library to extract and query information from a PDF document using various extractors and models. The workflow includes setting up an extraction graph, uploading a PDF file, and querying the extracted content for specific information.
 
 ## Prerequisites
-
+```
 - Python 3.6 or later
 - `indexify` library
 - `requests` library
