@@ -115,9 +115,3 @@ print(chat_completion.choices[0].message.content)
 ## Conclusion
 
 This project demonstrates how to extract, query, and use information from a PDF document using the `indexify` library and OpenAI's GPT model. The code provides a framework for similar tasks involving document analysis and question answering.
-
-## License
-
-This project is licensed under the MIT License.
-```
-```
